@@ -20,4 +20,4 @@ const cleanSet = (set, startString) => {
     return str.join('-');
   };
   
-  export default cleanSet;
+export default cleanSet;

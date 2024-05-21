@@ -12,4 +12,4 @@ const groceriesList = () => {
     return fruits;
   };
   
-  export default groceriesList;
+export default groceriesList;

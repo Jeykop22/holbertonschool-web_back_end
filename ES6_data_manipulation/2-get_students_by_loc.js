@@ -8,4 +8,4 @@ const getStudentsByLocation = (students, city) => {
     return studentsLocation;
   };
   
-  export default getStudentsByLocation;
+export default getStudentsByLocation;

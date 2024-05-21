@@ -9,4 +9,4 @@ const getListStudentIds = (ids) => {
     return meids;
   };
   
-  export default getListStudentIds;
+export default getListStudentIds;

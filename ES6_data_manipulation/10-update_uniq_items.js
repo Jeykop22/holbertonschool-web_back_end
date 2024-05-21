@@ -14,4 +14,4 @@ const updateUniqueItems = (map) => {
     return map;
   };
   
-  export default updateUniqueItems;
+export default updateUniqueItems;

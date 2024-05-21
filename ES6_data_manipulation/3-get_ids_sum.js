@@ -8,4 +8,4 @@ const getStudentIdsSum = (students) => {
     return all;
   };
   
-  export default getStudentIdsSum;
+export default getStudentIdsSum;

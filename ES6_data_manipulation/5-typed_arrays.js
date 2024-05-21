@@ -13,4 +13,4 @@ const createInt8TypedArray = (length, position, value) => {
     return data;
   };
   
-  export default createInt8TypedArray;
+export default createInt8TypedArray;

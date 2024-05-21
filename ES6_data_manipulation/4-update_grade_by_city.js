@@ -21,4 +21,4 @@ const updateStudentGradeByCity = (students, city, newGrades) => {
     return studentByCity;
   };
   
-  export default updateStudentGradeByCity;
+export default updateStudentGradeByCity;
